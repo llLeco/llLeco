@@ -1,4 +1,4 @@
-## Oi, meu nome é Leandro Lourenço, sou estudante de Ciência da Computação e desenvolvedor Front-end!
+## Oi, meu nome é Leandro Lourenço e sou estudante de Ciência da Computação e desenvolvedor Front-end!
 <div align="center">
   <a href="https://github.com/llLeco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llLeco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
