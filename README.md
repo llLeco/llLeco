@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro (Leco)</h1>
-<h3 align="center">Frontend Developer | Web3 & PWA Enthusiast</h3>
+<h3 align="center">Fulstack Developer | Web3 </h3>
 
 <p align="center">
   <a href="https://twitter.com/leco712" target="blank">
