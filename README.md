@@ -9,7 +9,8 @@
 
 ### About Me
 - 🏆 2nd Place at the Hedera Hashgraph Hackathon with [Gemio](https://hbarsuite.app)
-- 🔭 Currently working on [HSuite](https://hbarsuite.app)
+- 🏆 3nd Place at the 2nd Hedera Hashgraph Hackathon with [Haras Project](https://hbarsuite.app)
+- 🔭 Currently working on [HbarSuite](https://hbarsuite.app)
 - 📫 Reach me at **leandrollemos712@gmail.com**
 
 ### Connect with Me
@@ -23,14 +24,4 @@
   <a href="https://discord.gg/Leco#8444" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Leco#8444" height="30" width="40" />
   </a>
-</p>
-
-### Languages & Tools
-<p align="left">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
 </p>
