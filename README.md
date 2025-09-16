@@ -10,6 +10,8 @@
 ### About Me
 - 🏆 2nd Place at the Hedera Hashgraph Hackathon with [Gemio](https://hbarsuite.app)
 - 🏆 3nd Place at the 2nd Hedera Hashgraph Hackathon with [Haras Project](https://hbarsuite.app)
+- Top 12 projects on Hedera AI agents hackathon with [SmartApp Studio](https://dorahacks.io/buidl/26122)
+- Participated on Hedera Origins Hackathon with [Ecosphere](https://dorahacks.io/buidl/29180)
 - 🔭 Currently working on [HbarSuite](https://hbarsuite.app)
 - 📫 Reach me at **leandrollemos712@gmail.com**
 
